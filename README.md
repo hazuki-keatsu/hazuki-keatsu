@@ -24,10 +24,19 @@ An undergraduate student from China 🇨🇳 majoring in Software Engineer. Aslo
 
 <h2>Statistic:</h2>
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hazuki-keatsu&show_icons=true&locale=en&hide=contribs" alt="hazuki-keatsu" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hazuki-keatsu&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook" alt="hazuki-keatsu" />
+<p style="display: flex; align-items: flex-start; gap: 10px; margin: 0; padding: 0;">
+  <picture style="flex: none;">
+    <source height="165" media="(prefers-color-scheme: dark)" src="https://github-readme-stats.vercel.app/api?username=hazuki-keatsu&show_icons=true&locale=en&hide=contribs" alt="hazuki-keatsu"/>
+    <source height="165" media="(prefers-color-scheme: light)" src="https://github-readme-stats.vercel.app/api?username=hazuki-keatsu&show_icons=true&locale=en&hide=contribs&theme=dark" alt="hazuki-keatsu"/>
+    <img height="165" alt="hazuki-keatsu" src="https://github-readme-stats.vercel.app/api?username=hazuki-keatsu&show_icons=true&locale=en&hide=contribs" style="width: auto;"/>
+  </picture>
+  <picture style="flex: none;">
+    <source height="165" media="(prefers-color-scheme: dark)" src="https://github-readme-stats.vercel.app/api/top-langs?username=hazuki-keatsu&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook" alt="hazuki-keatsu"/>
+    <source height="165" media="(prefers-color-scheme: light)" src="https://github-readme-stats.vercel.app/api/top-langs?username=hazuki-keatsu&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook&theme=dark" alt="hazuki-keatsu"/>
+    <img height="165" alt="hazuki-keatsu" src="https://github-readme-stats.vercel.app/api/top-langs?username=hazuki-keatsu&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook" style="width: auto;"/>
+  </picture>
 </p>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
