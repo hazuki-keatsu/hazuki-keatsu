@@ -23,3 +23,9 @@ An undergraduate student from China 🇨🇳 majoring in Software Engineer.
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=hazuki-keatsu&show_icons=true&locale=en" alt="hazuki-keatsu" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hazuki-keatsu&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook" alt="hazuki-keatsu" /></p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./aseets/github-snake.svg" />
+  <img alt="github-snake" src="./assets/github-snake.svg" />
+</picture>
