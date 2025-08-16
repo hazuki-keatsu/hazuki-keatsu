@@ -1,9 +1,9 @@
 ![header](./assets/header.jpg)
 
-<h1 align="left">Hi 👋, I'm Hazuki Keatsu</h1>
-An undergraduate student from China 🇨🇳 majoring in Software Engineer.
+<h1 align="left">👋 Hi, I'm Hazuki Keatsu</h1>
+An undergraduate student from China 🇨🇳 majoring in Software Engineer. Aslo, a XDUer.
 
-**You Are the** ![visitor counter](https://count.getloli.com/@hazuki-keatsu?name=hazuki-keatsu&theme=booru-jaypee&padding=7&offset=0&align=bottom&scale=0.75&pixelated=1&darkmode=auto) **Visitor!**
+**You Are the** ![visitor counter](https://count.getloli.com/@hazuki-keatsu?name=hazuki-keatsu&theme=booru-jaypee&padding=7&offset=0&align=bottom&scale=0.75&pixelated=1&darkmode=auto) **Visitor Here!**
 
 <h2 align="left">Languages and Tools:</h2>
 
@@ -20,12 +20,14 @@ An undergraduate student from China 🇨🇳 majoring in Software Engineer.
 
 <h2>Statistic:</h2>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=hazuki-keatsu&show_icons=true&locale=en" alt="hazuki-keatsu" /></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hazuki-keatsu&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook" alt="hazuki-keatsu" /></p>
+<p align="left">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=hazuki-keatsu&show_icons=true&locale=en" alt="hazuki-keatsu" />
+  &nbsp;
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=hazuki-keatsu&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook" alt="hazuki-keatsu" />
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg" />
-  <img alt="github-snake" src="./assets/github-snake.svg" />
+  <img alt="github-snake" src="./assets/github-snake.svg" style="width: 100%;" />
 </picture>
