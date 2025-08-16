@@ -36,7 +36,9 @@ jobs:
           outputs: |
             assets/github-snake.svg
             assets/github-snake-dark.svg?palette=github-dark
-            assets/ocean.gif?color_snake=#f4c5d2&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+            assets/test.svg?color_dots=#ebedf0,#9be9a8,#40c463,#30a14e,#216e39&color_snake=#f4c5d2
+            assets/test1.svg?color_snake=#f4c5d2
+            assets/test2.svg?color_snake=#f4c5d2&palette=github-dark
 
       # 使用 EndBug/add-and-commit 提交代码, see: https://github.com/EndBug/add-and-commit
       - name: Push to GitHub
