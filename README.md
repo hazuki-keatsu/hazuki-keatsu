@@ -1,4 +1,4 @@
-![header](./aseets/header.jpg)
+![header](./assets/header.jpg)
 
 <h1 align="left">Hi 👋, I'm Hazuki Keatsu</h1>
 An undergraduate student from China 🇨🇳 majoring in Software Engineer.
