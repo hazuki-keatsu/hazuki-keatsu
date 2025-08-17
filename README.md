@@ -18,23 +18,14 @@ An undergraduate student from China 🇨🇳 majoring in Software Engineer. Aslo
 [![Bilibili](https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Bilibili+Follows&labelColor=FE7398&color=282C34&query=$.data.follower&url=https://api.bilibili.com/x/relation/stat?vmid=392082366&longCache=true&logo=bilibili&logoColor=white)](https://space.bilibili.com/392082366)
 [![Static Badge](https://img.shields.io/badge/Outlook-Mail_to_Me-0F6CBD?style=for-the-badge&logo=gmail&logoColor=FFFFFF&logoSize=auto)](mailto:yeyuefeng699@outlook.com)
 
-<h2>Current Jod:</h2>
+<h2>Current Jods:</h2>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hazuki-keatsu&repo=graph-tablet)](https://github.com/hazuki-keatsu/graph-tablet)
 
 <h2>Statistic:</h2>
-
-<p style="display: flex; align-items: flex-start; gap: 10px; margin: 0; padding: 0;">
-  <picture style="flex: none;">
-    <source height="165" media="(prefers-color-scheme: dark)" src="https://github-readme-stats.vercel.app/api?username=hazuki-keatsu&show_icons=true&locale=en&hide=contribs" alt="hazuki-keatsu"/>
-    <source height="165" media="(prefers-color-scheme: light)" src="https://github-readme-stats.vercel.app/api?username=hazuki-keatsu&show_icons=true&locale=en&hide=contribs&theme=dark" alt="hazuki-keatsu"/>
-    <img height="165" alt="hazuki-keatsu" src="https://github-readme-stats.vercel.app/api?username=hazuki-keatsu&show_icons=true&locale=en&hide=contribs" style="width: auto;"/>
-  </picture>
-  <picture style="flex: none;">
-    <source height="165" media="(prefers-color-scheme: dark)" src="https://github-readme-stats.vercel.app/api/top-langs?username=hazuki-keatsu&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook" alt="hazuki-keatsu"/>
-    <source height="165" media="(prefers-color-scheme: light)" src="https://github-readme-stats.vercel.app/api/top-langs?username=hazuki-keatsu&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook&theme=dark" alt="hazuki-keatsu"/>
-    <img height="165" alt="hazuki-keatsu" src="https://github-readme-stats.vercel.app/api/top-langs?username=hazuki-keatsu&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook" style="width: auto;"/>
-  </picture>
+<p>
+  <img height="165" alt="hazuki-keatsu" src="https://github-readme-stats.vercel.app/api?username=hazuki-keatsu&show_icons=true&locale=en&hide=contribs" style="width: auto;"/>
+  <img height="165" alt="hazuki-keatsu" src="https://github-readme-stats.vercel.app/api/top-langs?username=hazuki-keatsu&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook" style="width: auto;"/>
 </p>
 
 
