@@ -1,7 +1,7 @@
 ![header](./assets/header.png)
 
 <h1 align="left">👋 Hi, I'm Hazuki Keatsu</h1>
-An undergraduate student from China 🇨🇳 majoring in Software Engineer. Aslo, a XDUer.
+An undergraduate student from China 🇨🇳 majoring in Software Engineering. Aslo, a XDUer.
 
 **You Are the** ![visitor counter](https://count.getloli.com/@hazuki-keatsu?name=hazuki-keatsu&theme=booru-jaypee&padding=7&offset=0&align=bottom&scale=0.75&pixelated=1&darkmode=auto) **Visitor Here!**
 
@@ -16,11 +16,12 @@ An undergraduate student from China 🇨🇳 majoring in Software Engineer. Aslo
 <h2>How to Find Me:</h2>
 
 [![Bilibili](https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Bilibili+Follows&labelColor=FE7398&color=282C34&query=$.data.follower&url=https://api.bilibili.com/x/relation/stat?vmid=392082366&longCache=true&logo=bilibili&logoColor=white)](https://space.bilibili.com/392082366)
-[![Static Badge](https://img.shields.io/badge/Outlook-Mail_to_Me-0F6CBD?style=for-the-badge&logo=gmail&logoColor=FFFFFF&logoSize=auto)](mailto:yeyuefeng699@outlook.com)
+[![Github](https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=GitHub+Followers&suffix=%20&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dhazuki-keatsu&labelColor=282c34&color=353940&logo=github&longCache=true)](https://github.com/hazuki-keatsu)
+[![Outlook](https://img.shields.io/badge/Outlook-Mail_to_Me-0F6CBD?style=for-the-badge&logo=gmail&logoColor=FFFFFF&logoSize=auto)](mailto:yeyuefeng699@outlook.com)
 
 <h2>Current Jods:</h2>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hazuki-keatsu&repo=graph-tablet)](https://github.com/hazuki-keatsu/graph-tablet)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hazuki-keatsu&repo=graph-tablet&show_owner=true)](https://github.com/hazuki-keatsu/graph-tablet)
 
 <h2>Statistic:</h2>
 <p>
