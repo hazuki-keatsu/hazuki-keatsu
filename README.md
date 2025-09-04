@@ -21,7 +21,7 @@ An undergraduate student from China 🇨🇳 majoring in Software Engineering. A
 
 <h2>Current Jods:</h2>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hazuki-keatsu&repo=graph-tablet&show_owner=true)](https://github.com/hazuki-keatsu/graph-tablet)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hazuki-keatsu&repo=aero-paper)](https://github.com/hazuki-keatsu/aero-paper)
 
 <h2>Statistic:</h2>
 <p>
