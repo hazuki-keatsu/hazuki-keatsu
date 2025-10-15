@@ -3,8 +3,6 @@
 <h1 align="left">👋 Hi, I'm Hazuki Keatsu</h1>
 An undergraduate student from China 🇨🇳 majoring in Software Engineering. Aslo, a XDUer.
 
-**You Are the** ![visitor counter](https://count.getloli.com/@hazuki-keatsu?name=hazuki-keatsu&theme=booru-jaypee&padding=7&offset=0&align=bottom&scale=0.75&pixelated=1&darkmode=auto) **Visitor Here!**
-
 <h2 align="left">Languages and Tools:</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,cpp,flutter,dart,git,github,go,kotlin,latex,linux,md,neovim,obsidian,py,pytorch,windows,vscode,sqlite&perline=9)](https://skillicons.dev)
