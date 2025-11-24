@@ -5,7 +5,7 @@ An undergraduate student from China 🇨🇳 majoring in Software Engineering. A
 
 <h2 align="left">Languages and Tools:</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,cpp,flutter,dart,git,github,go,kotlin,latex,linux,md,neovim,obsidian,py,pytorch,windows,vscode,sqlite&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,cpp,flutter,dart,go,kotlin,latex,md,obsidian,windows,vscode,ts)](https://skillicons.dev)
 
 <h3>Also: </h3>
 
