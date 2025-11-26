@@ -19,7 +19,7 @@ An undergraduate student from China 🇨🇳 majoring in Software Engineering. A
 
 <h2>Current Jods:</h2>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BenderBlog&repo=traintime_pda)](https://github.com/BenderBlog/traintime_pda)
+[![traintime_pda](https://github-readme-stats.vercel.app/api/pin/?username=BenderBlog&repo=traintime_pda)](https://github.com/BenderBlog/traintime_pda)
 
 <h2>Statistic:</h2>
 <p>
