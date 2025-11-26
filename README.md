@@ -19,14 +19,9 @@ An undergraduate student from China 🇨🇳 majoring in Software Engineering. A
 
 <h2>Current Jods:</h2>
 
-[![traintime_pda](https://github-readme-stats.vercel.app/api/pin/?username=BenderBlog&repo=traintime_pda)](https://github.com/BenderBlog/traintime_pda)
+1. [traintime_pda](https://github.com/BenderBlog/traintime_pda)
 
-<h2>Statistic:</h2>
-<p>
-  <img height="165" alt="hazuki-keatsu" src="https://github-readme-stats.vercel.app/api?username=hazuki-keatsu&show_icons=true&locale=en&hide=contribs" style="width: auto;"/>
-  <img height="165" alt="hazuki-keatsu" src="https://github-readme-stats.vercel.app/api/top-langs?username=hazuki-keatsu&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook" style="width: auto;"/>
-</p>
-
+<h2>Contribution Wall:</h2>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
