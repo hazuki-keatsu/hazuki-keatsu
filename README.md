@@ -17,14 +17,14 @@ An undergraduate student from China 🇨🇳 majoring in Software Engineering. A
 [![Github](https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=GitHub+Followers&suffix=%20&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dhazuki-keatsu&labelColor=282c34&color=353940&logo=github&longCache=true)](https://github.com/hazuki-keatsu)
 [![Outlook](https://img.shields.io/badge/Outlook-Mail_to_Me-0F6CBD?style=for-the-badge&logo=gmail&logoColor=FFFFFF&logoSize=auto)](mailto:yeyuefeng699@outlook.com)
 
-<h2>Current Jods:</h2>
+<h2>Current Jobs:</h2>
 
 | Projects                                                     | Description                       |
 |--------------------------------------------------------------|-----------------------------------|
 | [traintime_pda](https://github.com/BenderBlog/traintime_pda) | 开源的西电学生信息查询软件，包括课表查询、成绩查询、电费查询等功能 |
 | [XDYou-HM](https://github.com/hazuki-keatsu/XDYou-HM)        | traintime_pda项目的鸿蒙系统移植，现在正在开荒中。   |
 
-<h2>Contribution Wall:</h2>
+<h2>Contribution Snake:</h2>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
