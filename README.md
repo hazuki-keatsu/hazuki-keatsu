@@ -21,7 +21,7 @@ An undergraduate student from China 🇨🇳 majoring in Software Engineering. A
 
 | Projects                                                     | Description                       |
 |--------------------------------------------------------------|-----------------------------------|
-| [traintime_pda](https://github.com/BenderBlog/traintime_pda) | 开源的西电学生信息查询软件，包括课表查询、成绩查询、电费查询等功能 |
+| [traintime_pda](https://github.com/BenderBlog/traintime_pda) | 开源的西电学生信息查询软件，包括课表查询、成绩查询、电费查询等功能。 |
 | [XDYou-HM](https://github.com/hazuki-keatsu/XDYou-HM)        | traintime_pda项目的鸿蒙系统移植，现在正在开荒中。   |
 
 <h2>Contribution Snake:</h2>
