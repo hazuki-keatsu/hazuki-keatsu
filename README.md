@@ -5,11 +5,7 @@ An undergraduate student from China 🇨🇳 majoring in Software Engineering. A
 
 <h2 align="left">Languages and Tools:</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,cpp,flutter,dart,go,kotlin,latex,md,obsidian,windows,vscode,ts,rust)](https://skillicons.dev)
-
-<h3>Also: </h3>
-
-- Cubase & Studio One
+![My Skills](./assets/dist/skills.svg)
 
 <h2>How to Find Me:</h2>
 
@@ -28,7 +24,7 @@ An undergraduate student from China 🇨🇳 majoring in Software Engineering. A
 <h2>Contribution Snake:</h2>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg" />
-  <img alt="github-snake" src="./assets/github-snake.svg" style="width: 100%;" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/dist/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/dist/github-snake.svg" />
+  <img alt="github-snake" src="./assets/dist/github-snake.svg" style="width: 100%;" />
 </picture>
