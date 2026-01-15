@@ -30,7 +30,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add assets/dist/icons.json assets/dist/skills.svg || true
+          git add assets/dist/skills.svg || true
           if [ -n "$(git status --porcelain)" ]; then
             git commit -m "chore: update icons dist [skip ci]"
             git push
