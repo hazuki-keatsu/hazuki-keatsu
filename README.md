@@ -16,7 +16,11 @@ An undergraduate student from China 🇨🇳 majoring in Software Engineering. A
 | Projects                                                     | Description                       |
 |--------------------------------------------------------------|-----------------------------------|
 | [traintime_pda](https://github.com/BenderBlog/traintime_pda) | 开源的西电学生信息查询软件，包括课表查询、成绩查询、电费查询等功能。 |
-| [Hoshimi](https://github.com/hazuki-keatsu/Hoshimi)          | A high-performance, content-driven, and easy-to-use visual novel engine.   |
+| [Sonar View](https://github.com/hazuki-keatsu/sonar-view)    | SonarView is a high-level visualization tool that converts audio time-domain information into frequency-domain information and can work collaboratively with your DAW. |
+
+<h2>Code::Stats:</h2>
+
+[Link to Hazuki Keatsu](https://codestats.net/users/hazuki-keatsu)
 
 <h2>Contribution Snake:</h2>
 
