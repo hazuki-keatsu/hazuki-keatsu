@@ -25,7 +25,7 @@ I used a lot of names, so you may meet me somewhere else. The name I used:
 
 <h2>Code::Stats:</h2>
 
-[Link to hazuki-keatsu](https://codestats.net/users/hazuki-keatsu)
+<a href="https://codestats.net/users/hazuki-keatsu" target="_blank">Link to hazuki-keatsu</a>
 
 <h2>Contribution Snake:</h2>
 
