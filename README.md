@@ -29,7 +29,7 @@ I used a lot of names, so you may meet me somewhere else. The name I used:
 <h2>Contribution Snake:</h2>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/dist/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/dist/github-snake.svg" />
-  <img alt="github-snake" src="./assets/dist/github-snake.svg" style="width: 100%;" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hazuki-keatsu/hazuki-keatsu/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hazuki-keatsu/hazuki-keatsu/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/hazuki-keatsu/hazuki-keatsu/output/github-snake.svg" style="width: 100%;" />
 </picture>
