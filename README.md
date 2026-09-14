@@ -1,9 +1,9 @@
-<h1 align="left">👋 Hi, I'm せいはな</h1>
+<h1 align="left">👋 Hi, I'm Hazuki Keatsu</h1>
 An undergraduate student from China majoring in Software Engineering. Aslo, a XDUer.
 
 I used a lot of names, so you may meet me somewhere else. The name I used:
 - 葉月　楓 (はつき　けあつ): The longest name I used.
-- 星野　澄 (ほしの　すみこ): The name I used in university.
+- 星野 (ほしの): The name I used in university.
 - 星　花奈 (せい　はな): The newest name due to the unblocking of my Bilibili account.
 
 <h2 align="left">Languages and Tools:</h2>
