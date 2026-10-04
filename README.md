@@ -20,6 +20,7 @@ I used a lot of names, so you may meet me somewhere else. The name I used:
 | Projects                                                     | Description                       |
 |--------------------------------------------------------------|-----------------------------------|
 | [traintime_pda](https://github.com/BenderBlog/traintime_pda) | 开源的西电学生信息查询软件，包括课表查询、成绩查询、电费查询等功能。 |
+| [Gane](https://github.com/hazuki-keatsu/gane)                | 使用 Rust 实现的 Go 语言实验性质编译器，目标是更快的长时运行速度。目前正在开发，未公开。 |
 
 <h2>Code::Stats:</h2>
 
