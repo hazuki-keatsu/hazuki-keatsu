@@ -1,9 +1,8 @@
-<h1 align="left">👋 Hi, I'm せいはな</h1>
+<h1 align="left">👋 Hi, I'm Hazuki Keatsu</h1>
 An undergraduate student from China majoring in Software Engineering. Aslo, a XDUer.
 
 I used a lot of names, so you may meet me somewhere else. The name I used:
 - 葉月　楓 (はつき　けあつ): The longest name I used.
-- 星野　澄 (ほしの　すみこ): The name I used in university.
 - 星　花奈 (せい　はな): The newest name due to the unblocking of my Bilibili account.
 
 <h2 align="left">Languages and Tools:</h2>
@@ -13,7 +12,6 @@ I used a lot of names, so you may meet me somewhere else. The name I used:
 <h2>How to Find Me:</h2>
 
 [![Bilibili](https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Bilibili+Follows&labelColor=FE7398&color=282C34&query=$.data.follower&url=https://api.bilibili.com/x/relation/stat?vmid=392082366&longCache=true&logo=bilibili&logoColor=white)](https://space.bilibili.com/392082366)
-[![Github](https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=GitHub+Followers&suffix=%20&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dhazuki-keatsu&labelColor=282c34&color=353940&logo=github&longCache=true)](https://github.com/hazuki-keatsu)
 [![Outlook](https://img.shields.io/badge/Outlook-Mail_to_Me-0F6CBD?style=for-the-badge&logo=gmail&logoColor=FFFFFF&logoSize=auto)](mailto:yeyuefeng699@outlook.com)
 
 <h2>Current Jobs:</h2>
@@ -21,10 +19,16 @@ I used a lot of names, so you may meet me somewhere else. The name I used:
 | Projects                                                     | Description                       |
 |--------------------------------------------------------------|-----------------------------------|
 | [traintime_pda](https://github.com/BenderBlog/traintime_pda) | 开源的西电学生信息查询软件，包括课表查询、成绩查询、电费查询等功能。 |
+| [Gane](https://github.com/hazuki-keatsu/gane)                | 使用 Rust 实现的 Go 语言实验性质编译器，目标是更快的长时运行速度。目前正在快速迭代中。 |
 
-<h2>Code::Stats:</h2>
+<h2>Score:</h2>
 
-<a href="https://codestats.net/users/hazuki-keatsu" target="_blank">Link to hazuki-keatsu</a>
+<a href="https://ghfind.com/u/hazuki-keatsu?ref=badge">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ghfind.com/api/card/mini/hazuki-keatsu?variant=radar&theme=dark&lang=zh" />
+    <img src="https://ghfind.com/api/card/mini/hazuki-keatsu?variant=radar&theme=light&lang=zh" alt="GitHub Roast 评分卡" width="440" />
+  </picture>
+</a>
 
 <h2>Contribution Snake:</h2>
 
