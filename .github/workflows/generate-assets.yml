@@ -35,8 +35,10 @@ jobs:
         with:
           node-version: '24'
 
-      - name: Fetch Code::Stats data and render SVG
-        run: node scripts/generate-code-stats.js hazuki-keatsu ./assets/dist/code-stats.svg
+      - name: Render light and dark Code::Stats cards
+        run: |
+          node scripts/generate-code-stats.js hazuki-keatsu ./assets/dist/code-stats-light.svg ./assets/github-colors.json light
+          node scripts/generate-code-stats.js hazuki-keatsu ./assets/dist/code-stats-dark.svg ./assets/github-colors.json dark
 
       - name: Publish generated assets
         uses: peaceiris/actions-gh-pages@v4
