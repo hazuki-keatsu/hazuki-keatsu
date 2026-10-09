@@ -1,0 +1,48 @@
+name: Generate Snake and CodeStats
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+concurrency:
+  group: generated-profile-assets
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    env:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: hazuki-keatsu
+          outputs: |
+            assets/dist/github-snake.svg?color_snake=#9c404c
+            assets/dist/github-snake-dark.svg?palette=github-dark&color_snake=#f4c5d2
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+
+      - name: Fetch Code::Stats data and render SVG
+        run: node scripts/generate-code-stats.js hazuki-keatsu ./assets/dist/code-stats.svg
+
+      - name: Publish generated assets
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: output
+          publish_dir: ./assets/dist
+          force_orphan: true
+          commit_message: 'chore: update profile assets [skip ci]'
