@@ -30,13 +30,13 @@ I used a lot of names, so you may meet me somewhere else. The name I used:
   </picture>
 </a>
 
-<h2>Code::Stats:</h2>
+<h2>CodeStats:</h2>
 
 <a href="https://codestats.net/users/hazuki-keatsu" target="_blank">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hazuki-keatsu/hazuki-keatsu/output/code-stats-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hazuki-keatsu/hazuki-keatsu/output/code-stats-light.svg" />
-    <img src="https://raw.githubusercontent.com/hazuki-keatsu/hazuki-keatsu/output/code-stats-light.svg" alt="hazuki-keatsu's Code::Stats summary" width="900" />
+    <img src="https://raw.githubusercontent.com/hazuki-keatsu/hazuki-keatsu/output/code-stats-light.svg" alt="hazuki-keatsu's Code::Stats summary" width="600" />
   </picture>
 </a>
 
