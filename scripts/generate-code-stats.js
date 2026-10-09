@@ -7,7 +7,7 @@
  *   node scripts/generate-code-stats.js <username> <output-file> <language-color-json> <light|dark>
  */
 
-import { readFileSync } from 'node:fs';
+import { readFileSync, writeFileSync } from 'node:fs';
 import { mkdir, writeFile} from 'node:fs/promises';
 import { dirname } from 'node:path';
 
@@ -60,7 +60,7 @@ function renderChart(dates) {
   });
   const max = Math.max(1, ...values.map(({ xp }) => xp));
   const x = 46;
-  const y = 271;
+  const y = 252;
   const width = 808;
   const height = 102;
   const gap = 8;
@@ -78,7 +78,7 @@ function renderChart(dates) {
       <rect x="${barX.toFixed(2)}" y="${barY.toFixed(2)}" width="${barWidth.toFixed(2)}" height="${barHeight.toFixed(2)}" rx="3" fill="${theme.accent}">
         <title>${escapeXml(`${date}: ${formatXp(xp)} XP`)}</title>
       </rect>
-      ${(index === 0 || index === values.length - 1 || index === 6) ? `<text x="${(barX + barWidth / 2).toFixed(2)}" y="390" text-anchor="middle" class="axis">${label}</text>` : ''}`;
+      ${(index === 0 || index === values.length - 1 || index === 6) ? `<text x="${(barX + barWidth / 2).toFixed(2)}" y="370" text-anchor="middle" class="axis">${label}</text>` : ''}`;
   }).join('');
 
   return { lines, bars, max };
@@ -93,7 +93,7 @@ function renderSvg(profile) {
     .slice(0, 6);
   const chart = renderChart(profile.dates || {});
   const languageRows = languages.map(({ language, xp }, index) => {
-    const rowY = 134 + index * 18;
+    const rowY = 118 + index * 18;
     const percent = totalXp ? (xp / totalXp) * 100 : 0;
     // Code::Stats can report editor-specific names (for example, `scminput`)
     // which are intentionally absent from GitHub's language-color catalogue.
@@ -101,7 +101,7 @@ function renderSvg(profile) {
     return `<circle cx="595" cy="${rowY - 4}" r="4" fill="${color}" />
       <text x="606" y="${rowY}" class="language">${escapeXml(language)}</text>
       <text x="850" y="${rowY}" text-anchor="end" class="language value">${formatXp(xp)} · ${percent.toFixed(1)}%</text>\n`;
-  }).join('') || '<text x="595" y="134" class="language">No language data yet</text>';
+  }).join('') || '<text x="595" y="118" class="language">No language data yet</text>';
 
   return `<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="400" viewBox="0 0 900 400" role="img" aria-labelledby="title description">
@@ -118,22 +118,22 @@ function renderSvg(profile) {
   </style>
   <rect width="900" height="400" rx="18" fill="${theme.background}" />
   <rect x="1" y="1" width="898" height="398" rx="17" fill="none" stroke="${theme.grid}" stroke-width="2" />
-  <text x="46" y="55" class="title">Code::Stats</text>
-  <text x="854" y="55" text-anchor="end" class="subtitle">@${escapeXml(profile.user || username)}</text>
-  <line x1="46" y1="81" x2="854" y2="81" stroke="${theme.grid}" />
+  <text x="46" y="50" class="title">Code::Stats</text>
+  <text x="854" y="50" text-anchor="end" class="subtitle">@${escapeXml(profile.user || username)}</text>
+  <line x1="46" y1="70" x2="854" y2="70" stroke="${theme.grid}" />
 
-  <text x="46" y="111" class="metric-label">TOTAL XP</text>
-  <text x="46" y="146" class="metric-value">${formatXp(totalXp)}</text>
-  <text x="261" y="111" class="metric-label">LEVEL</text>
-  <text x="261" y="146" class="metric-value">${levelFor(totalXp)}</text>
-  <text x="420" y="111" class="metric-label">LAST 12 HOURS</text>
-  <text x="420" y="146" class="metric-value">+${formatXp(newXp)}</text>
+  <text x="46" y="95" class="metric-label">TOTAL XP</text>
+  <text x="46" y="130" class="metric-value">${formatXp(totalXp)}</text>
+  <text x="261" y="95" class="metric-label">LEVEL</text>
+  <text x="261" y="130" class="metric-value">${levelFor(totalXp)}</text>
+  <text x="420" y="95" class="metric-label">LAST 12 HOURS</text>
+  <text x="420" y="130" class="metric-value">+${formatXp(newXp)}</text>
 
-  <text x="590" y="111" class="section">TOP LANGUAGES</text>
+  <text x="590" y="95" class="section">TOP LANGUAGES</text>
   ${languageRows}
 
-  <text x="46" y="257" class="section">XP · LAST 14 DAYS</text>
-  <text x="854" y="257" text-anchor="end" class="axis">PEAK ${formatXp(chart.max)} XP</text>
+  <text x="46" y="240" class="section">XP · LAST 14 DAYS</text>
+  <text x="854" y="240" text-anchor="end" class="axis">PEAK ${formatXp(chart.max)} XP</text>
   ${chart.lines}
   ${chart.bars}
 </svg>`;
