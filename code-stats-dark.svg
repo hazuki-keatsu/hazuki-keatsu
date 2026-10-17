@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="400" viewBox="0 0 900 400" role="img" aria-labelledby="title description">
+  <title id="title">hazuki-keatsu's Code::Stats</title>
+  <desc id="description">Code::Stats summary with total experience, current level, top languages, and the last 14 days of XP.</desc>
+  <style>
+    .title { font: 700 24px -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; fill: #f4f4f5; }
+    .subtitle { font: 500 13px -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; fill: #a1a1aa; letter-spacing: .04em; }
+    .metric-label { font: 600 12px -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; fill: #a1a1aa; letter-spacing: .08em; }
+    .metric-value { font: 700 29px -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; fill: #f4f4f5; }
+    .section { font: 700 13px -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; fill: #f4f4f5; letter-spacing: .05em; }
+    .language, .axis { font: 500 12px -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; fill: #a1a1aa; }
+    .value { font-weight: 600; fill: #f4f4f5; }
+  </style>
+  <rect width="900" height="400" rx="18" fill="#0a0a0b" />
+  <rect x="1" y="1" width="898" height="398" rx="17" fill="none" stroke="#3f3f46" stroke-width="2" />
+  <text x="46" y="50" class="title">Code::Stats</text>
+  <text x="854" y="50" text-anchor="end" class="subtitle">@hazuki-keatsu</text>
+  <line x1="46" y1="70" x2="854" y2="70" stroke="#3f3f46" />
+
+  <text x="46" y="95" class="metric-label">TOTAL XP</text>
+  <text x="46" y="130" class="metric-value">396,598</text>
+  <text x="261" y="95" class="metric-label">LEVEL</text>
+  <text x="261" y="130" class="metric-value">15</text>
+  <text x="420" y="95" class="metric-label">LAST 12 HOURS</text>
+  <text x="420" y="130" class="metric-value">+2,739</text>
+
+  <text x="590" y="95" class="section">TOP LANGUAGES</text>
+  <circle cx="595" cy="114" r="4" fill="#dea584" />
+      <text x="606" y="118" class="language">Rust</text>
+      <text x="850" y="118" text-anchor="end" class="language value">125,162 · 31.6%</text>
+<circle cx="595" cy="132" r="4" fill="#083fa1" />
+      <text x="606" y="136" class="language">Markdown</text>
+      <text x="850" y="136" text-anchor="end" class="language value">123,424 · 31.1%</text>
+<circle cx="595" cy="150" r="4" fill="#ff3e00" />
+      <text x="606" y="154" class="language">Svelte</text>
+      <text x="850" y="154" text-anchor="end" class="language value">54,735 · 13.8%</text>
+<circle cx="595" cy="168" r="4" fill="#f34b7d" />
+      <text x="606" y="172" class="language">C++</text>
+      <text x="850" y="172" text-anchor="end" class="language value">22,754 · 5.7%</text>
+<circle cx="595" cy="186" r="4" fill="#00B4AB" />
+      <text x="606" y="190" class="language">Dart</text>
+      <text x="850" y="190" text-anchor="end" class="language value">16,624 · 4.2%</text>
+<circle cx="595" cy="204" r="4" fill="#38BDF8" />
+      <text x="606" y="208" class="language">scminput</text>
+      <text x="850" y="208" text-anchor="end" class="language value">9,228 · 2.3%</text>
+
+
+  <text x="46" y="240" class="section">XP · LAST 14 DAYS</text>
+  <text x="854" y="240" text-anchor="end" class="axis">PEAK 22,034 XP</text>
+  <line x1="46" y1="354" x2="854" y2="354" stroke="#3f3f46" stroke-width="1" /><line x1="46" y1="303" x2="854" y2="303" stroke="#3f3f46" stroke-width="1" /><line x1="46" y1="252" x2="854" y2="252" stroke="#3f3f46" stroke-width="1" />
+  
+      <rect x="46.00" y="303.18" width="50.29" height="50.82" rx="3" fill="#38BDF8">
+        <title>2026-10-04: 10,978 XP</title>
+      </rect>
+      <text x="71.14" y="370" text-anchor="middle" class="axis">10/04</text>
+      <rect x="104.29" y="252.00" width="50.29" height="102.00" rx="3" fill="#38BDF8">
+        <title>2026-10-05: 22,034 XP</title>
+      </rect>
+      
+      <rect x="162.57" y="325.61" width="50.29" height="28.39" rx="3" fill="#38BDF8">
+        <title>2026-10-06: 6,132 XP</title>
+      </rect>
+      
+      <rect x="220.86" y="351.00" width="50.29" height="3.00" rx="3" fill="#38BDF8">
+        <title>2026-10-07: 84 XP</title>
+      </rect>
+      
+      <rect x="279.14" y="309.65" width="50.29" height="44.35" rx="3" fill="#38BDF8">
+        <title>2026-10-08: 9,581 XP</title>
+      </rect>
+      
+      <rect x="337.43" y="334.92" width="50.29" height="19.08" rx="3" fill="#38BDF8">
+        <title>2026-10-09: 4,122 XP</title>
+      </rect>
+      
+      <rect x="395.71" y="354.00" width="50.29" height="0.00" rx="3" fill="#38BDF8">
+        <title>2026-10-10: 0 XP</title>
+      </rect>
+      <text x="420.86" y="370" text-anchor="middle" class="axis">10/10</text>
+      <rect x="454.00" y="323.31" width="50.29" height="30.69" rx="3" fill="#38BDF8">
+        <title>2026-10-11: 6,630 XP</title>
+      </rect>
+      
+      <rect x="512.29" y="337.68" width="50.29" height="16.32" rx="3" fill="#38BDF8">
+        <title>2026-10-12: 3,526 XP</title>
+      </rect>
+      
+      <rect x="570.57" y="315.75" width="50.29" height="38.25" rx="3" fill="#38BDF8">
+        <title>2026-10-13: 8,262 XP</title>
+      </rect>
+      
+      <rect x="628.86" y="346.77" width="50.29" height="7.23" rx="3" fill="#38BDF8">
+        <title>2026-10-14: 1,562 XP</title>
+      </rect>
+      
+      <rect x="687.14" y="316.83" width="50.29" height="37.17" rx="3" fill="#38BDF8">
+        <title>2026-10-15: 8,029 XP</title>
+      </rect>
+      
+      <rect x="745.43" y="316.11" width="50.29" height="37.89" rx="3" fill="#38BDF8">
+        <title>2026-10-16: 8,186 XP</title>
+      </rect>
+      
+      <rect x="803.71" y="342.14" width="50.29" height="11.86" rx="3" fill="#38BDF8">
+        <title>2026-10-17: 2,561 XP</title>
+      </rect>
+      <text x="828.86" y="370" text-anchor="middle" class="axis">10/17</text>
+</svg>
